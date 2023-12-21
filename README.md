@@ -1,6 +1,6 @@
 # MIRAS Romain
 
-## Pescription 
+## Presentation 
 
 Hi, I’m @RomainMIRAS
 

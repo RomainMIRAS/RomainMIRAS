@@ -5,13 +5,13 @@
 
 I am a 3nd year French student for a Master Degree at the Polytech Grenoble engineering school with a major computer science.
 
-Having completed my IUT in informatics at UGA, which is a 2 Years of training with an equivalent to a bachelor’s degree in Computer Science, I have skills in all areas of IT but more especially in the **Web Development** and **Software Development**. I will soon graduate from my **Engineer degree
+Having completed my IUT in informatics at UGA, which is a 2 Years of training with an equivalent to a bachelor’s degree in Computer Science, I have skills in all areas of IT but more especially in the **Web Development** and **Software Development**. I will soon graduate from my **Engineer degree**
 
 Taked a look at my project if you are interest in !
 
-- 🔭 I’m currently working on [ECOM Web project](https://github.com/2024-2025-ECOM-INFO5-G2)
+- 🔭 I’m currently working at [VISEO](https://www.viseo.com/fr/)
 
-- 🌱 I’m currently learning **Spring and React**
+- 🌱 I’m currently learning **DevOps Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RomainMIRAS?tab=repositories](https://github.com/RomainMIRAS?tab=repositories)
 
